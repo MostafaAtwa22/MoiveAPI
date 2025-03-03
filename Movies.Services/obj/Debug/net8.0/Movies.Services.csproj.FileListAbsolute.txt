@@ -1,0 +1,17 @@
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.csproj.AssemblyReference.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.AssemblyInfoInputs.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.AssemblyInfo.cs
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.csproj.CoreCompileInputs.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Services.deps.json
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Services.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Services.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Core.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Repository.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Repository.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\bin\Debug\net8.0\Movies.Core.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.S.CE7C627A.Up2Date
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\refint\Movies.Services.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\Movies.Services.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Services\obj\Debug\net8.0\ref\Movies.Services.dll

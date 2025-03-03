@@ -1,0 +1,15 @@
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.csproj.AssemblyReference.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.AssemblyInfoInputs.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.AssemblyInfo.cs
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.csproj.CoreCompileInputs.cache
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\bin\Debug\net8.0\Movies.Repository.deps.json
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\bin\Debug\net8.0\Movies.Repository.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\bin\Debug\net8.0\Movies.Repository.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\bin\Debug\net8.0\Movies.Core.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\bin\Debug\net8.0\Movies.Core.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.R.6AA9794C.Up2Date
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\refint\Movies.Repository.dll
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\Movies.Repository.pdb
+D:\programming\Backend\API Projects\Movies_API\Movies.Repository\obj\Debug\net8.0\ref\Movies.Repository.dll

@@ -1,0 +1,13 @@
+﻿global using Movies.Core.Models;
+global using Microsoft.EntityFrameworkCore;
+global using Movies.Core.Interfaces;
+global using Movies.Repository.Data;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Net;
+global using System.Security.Claims;
+global using System.Security.Cryptography;
+global using System.Text;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.IdentityModel.Tokens;
